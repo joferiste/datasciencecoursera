@@ -1,0 +1,16 @@
+---
+title: "HelloWorld"
+author: "Jorge Riscajché"
+date: "7/10/2020"
+output: pdf_document
+---
+
+
+## R Markdown
+
+
+## This is a markdown file
+
+
+
+***La importacia de seguir progresando esta dentro de ti.***
